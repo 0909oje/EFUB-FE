@@ -1,5 +1,6 @@
 이펍 홈페이지 프로젝트 프론트팀 레포
 
+### 화면 구현
 # About Page
 
 ![image](https://user-images.githubusercontent.com/65931227/184263791-1558923c-815b-46a0-8d3b-783e577145c8.png)
@@ -10,7 +11,9 @@
 <img src="https://user-images.githubusercontent.com/65931227/184263895-3dd5a7ab-5ce7-480b-95a8-9985c367edbe.png"  width="30%" height="30%"/> 
 <div style="margin-bottom:50px">
 <hr/>
-  
+
+### 서버와의 연결
+
 # Recruitment Page
  
 ![image](https://user-images.githubusercontent.com/65931227/184264164-65af7260-690a-4b01-aaf0-70e62ff12714.png)
