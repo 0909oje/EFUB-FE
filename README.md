@@ -1,8 +1,8 @@
 이펍 홈페이지 프로젝트 프론트팀 레포
 
-About Page의 전반적인 구현을 담당하였다.
-
 # About Page
+
+About Page의 모든 UI 구현을 하였습니다.
 
 ![image](https://user-images.githubusercontent.com/65931227/184263791-1558923c-815b-46a0-8d3b-783e577145c8.png)
 
@@ -13,9 +13,10 @@ About Page의 전반적인 구현을 담당하였다.
 <div style="margin-bottom:50px">
 <hr/>
 
-Recruitment Page에서 유저의 정보를 서버에 넘겨주는 작업을 하였다.
-
 # Recruitment Page
+
+ Recruitment Page에서 유저의 정보를 서버에 넘겨주는 작업,
+ 지원서에 유저 정보를 저장하는 작업을 진행하였습니다.
  
 ![image](https://user-images.githubusercontent.com/65931227/184264164-65af7260-690a-4b01-aaf0-70e62ff12714.png)
   
