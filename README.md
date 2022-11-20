@@ -1,6 +1,8 @@
 이펍 홈페이지 프로젝트 프론트팀 레포
 
-# About Page
+# 개발 내용
+
+## About Page
 
 About Page의 모든 UI 구현을 하였습니다.
 
@@ -13,7 +15,7 @@ About Page의 모든 UI 구현을 하였습니다.
 <div style="margin-bottom:50px">
 <hr/>
 
-# Recruitment Page
+## Recruitment Page
 
  Recruitment Page에서 유저의 정보를 서버에 넘겨주는 작업,
  지원서에 유저 정보를 저장하는 작업을 진행하였습니다.
