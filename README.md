@@ -76,9 +76,6 @@
 <hr/>
 
 ### 2. Recruitment Page
-
- Recruitment Page에서 유저의 정보를 서버에 넘겨주는 작업,
- 지원서에 유저 정보를 저장하는 작업을 진행하였습니다.
  
 ![image](https://user-images.githubusercontent.com/65931227/184264164-65af7260-690a-4b01-aaf0-70e62ff12714.png)
   
