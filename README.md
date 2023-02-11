@@ -1,3 +1,5 @@
+### 📌 배포 링크
+
 ### 📌 서비스 소개
 
 *웹 개발 동아리 EFUB 2기를 모집하기 위한 웹페이지*
@@ -31,8 +33,6 @@
 
 - 자신의 이메일, 문의 내용 입력 후 이메일 발송 가능
 
-<br/>
-
 ### 📌 기여한 부분
 
 **[1] 기능 구현**
@@ -50,38 +50,8 @@
 
 *배포 전 리팩토링을 진행하였습니다.*
 
-1. 컴포넌트 통일
-    - 하나의 컴포넌트로 구현 가능한데 여러 컴포넌트로 나뉜 부분들에 있어서
-        
-        하나의 컴포넌트로 통일하였습니다.
+1. 공통 컴포넌트화
+하나의 컴포넌트로 구현 가능한데 여러 컴포넌트로 나뉜 부분들에 있어서 하나의 컴포넌트로 통일하였습니다.
         
 2. 코드 스타일 통일
-    - Recruitment 페이지를 여러 개발자가 개발하여 코드 스타일의 통일성이 떨어져
-        
-        이를 개선하였습니다.
-        
-<br/>
-
-### Design
-
-### 1. About Page
-
-![image](https://user-images.githubusercontent.com/65931227/184263791-1558923c-815b-46a0-8d3b-783e577145c8.png)
-
-<hr/>
-<img src="https://user-images.githubusercontent.com/65931227/184263858-c147043e-e637-4b5a-a350-615cd8dd3392.png" align="left" width="30%" height="30%"/>
-<img width="30%" alt="image" src="https://user-images.githubusercontent.com/65931227/184263885-9e55e1a4-dc38-4097-84e6-2afe4cce9f50.png" align="left">
-<img src="https://user-images.githubusercontent.com/65931227/184263895-3dd5a7ab-5ce7-480b-95a8-9985c367edbe.png"  width="30%" height="30%"/> 
-<div style="margin-bottom:50px">
-<hr/>
-
-### 2. Recruitment Page
- 
-![image](https://user-images.githubusercontent.com/65931227/184264164-65af7260-690a-4b01-aaf0-70e62ff12714.png)
-  
-<hr/>
-<img src="https://user-images.githubusercontent.com/65931227/184264417-1483c42a-ba6f-4c3b-926b-5b96fde74c52.png" align="left" width="30%" height="30%"/>
-<img width="30%" alt="image" src="https://user-images.githubusercontent.com/65931227/184264426-4e5cba7c-e6c3-49ab-8865-02b8bdeaa74e.png" align="left">
-<img src="https://user-images.githubusercontent.com/65931227/184264429-6e687cd9-865f-41c1-a861-00cb959db0e4.png"  width="30%" height="30%"/> 
-<div style="margin-bottom:50px">
-<hr/>
+Recruitment 페이지를 여러 개발자가 개발하여 코드 스타일의 통일성이 떨어져 이를 개선하였습니다.
