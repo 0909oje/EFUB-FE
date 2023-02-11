@@ -1,4 +1,5 @@
 ### 📌 배포 링크
+https://efub.vercel.app/
 
 ### 📌 서비스 소개
 
