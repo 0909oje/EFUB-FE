@@ -2,6 +2,9 @@
   "name": "efub-homepage",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.17.1"
+  },
   "dependencies": {
     "@notionhq/client": "^0.4.13",
     "@react-hook/window-size": "^3.0.7",
