@@ -79,10 +79,12 @@ const RecruitmentDesignerPage = () => {
       orientation: !apply.orientation,
     });
   };
-
+  
+  // 지원페이지 확인 위해 pass
   const _handleCheck = async () => {
-    const res = await checkDesigner(user);
-    res && setCheck(true);
+    // const res = await checkDesigner(user);
+    // res && setCheck(true);
+    setCheck(true);
   };
 
   const onNavigate = () => {

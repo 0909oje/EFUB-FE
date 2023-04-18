@@ -90,10 +90,9 @@ const RecruitmentDeveloperPage = () => {
   };
 
   const _handleCheck = async () => {
-    const res = await checkDeveloper(user);
-    if (res === true) {
-      setCheck(true);
-    }
+    // const res = await checkDeveloper(user);
+    // res && setCheck(true);
+    setCheck(true);
   };
 
   const onNavigate = () => {
